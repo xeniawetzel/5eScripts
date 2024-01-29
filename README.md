@@ -1,6 +1,6 @@
 # 5eScripts
 Helper scripts for a project.
-All files that are needed for the scripts to run are included. All Output for the given scripts is collected in the `Scripts\Example Output\` folder.
+All files that are needed for the scripts to run are included. All Output for the given scripts is collected in the `/Scripts/Example Output/` folder.
 
 ## MetaIni.py
 Opens a simple GUI to fill out all meta information that is needed for the json file. Creates `jsonFile.json` with the correct json syntax and all the entered meta info.
