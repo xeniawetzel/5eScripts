@@ -1,0 +1,54 @@
+Snazzle, Very Common, 8, 1-6
+Zigzag, Very Common, 8, 7-12
+Quibblesaurus, Very Common, 8, 13-18
+Whisker, Very Common, 8, 19-24
+Jibberish, Very Common, 8, 25-30
+Noodlet, Very Common, 8, 31-36
+Flapdoodle Frog, Very Common, 8, 37-42
+Twizzle, Very Common, 8, 43-48
+Sprocketnathus, Common, 12, 49-52
+Gibber, Common, 12, 53-56
+Whawk, Common, 12, 57-59
+Sniglet, Common, 12, 60-62
+Snackoon, Common, 12, 63-65
+Wobble, Common, 12, 66-68
+Doom Crawler, Uncommon, 15, 69-70
+Chumbrosh, Uncommon, 15, 71-73
+Druzzle, Uncommon, 15, 74-75
+Noodle, Uncommon, 15, 76-78
+Entomosnake, Uncommon, 15, 79-80
+Gobblekins, Uncommon, 15, 81-83
+Savannah Toodle, Uncommon, 15, 84-85
+Wobble, Uncommon, 15, 86-87
+Fizzle, Rare, 18, 88
+Foo Ze, Rare, 18, 89
+Fizzlingle, Rare, 18, 90
+Poodle, Rare, 18, 91
+Sparkle, Rare, 18, 92
+Banoodle, Rare, 18, 93
+Wobbletinger, Rare, 18, 94
+Bloop #133, Very Rare, 20, 95
+Blotus, Very Rare, 20, 96
+Mimblab, Very Rare, 20, 97
+#
+Quack, Very Common, 8, 1-50
+Aquamop, Common, 12, 51-57
+Kazoo, Common, 12, 64-68
+Oodle, Common, 12, 69-71
+Boomerang, Uncommon, 15, 72-74
+Capypadoodle, Uncommon, 15, 75-77
+Hydra Bounce, Uncommon, 15, 78-80
+River Noodle, Uncommon, 15, 81-83
+Shoelace, Uncommon, 15, 84-86
+Axonoodle, Rare, 18, 87-89
+Spork, Rare, 18, 90
+Vroom, Rare, 18, 91
+Bison, Very Rare, 20, 92
+Bloop #133, Very Rare, 20, 93
+Equatoodle, Very Rare, 20, 94
+Blotus, Very Rare, 20, 95
+Kazoot, Very Rare, 20, 96
+Moon Doodle, Very Rare, 20, 97
+Moon Jester, Very Rare, 20, 98
+Mimblab, Very Rare, 20, 99
+Tongue, Very Rare, 20, 100

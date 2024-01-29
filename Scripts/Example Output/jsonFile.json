@@ -1,0 +1,23 @@
+{"_meta": {
+		"sources": [
+			{
+				"json": "a",
+				"abbreviation": "b",
+				"full": "c",
+				"url": "d",
+				"authors": [
+					"Willy Abeel",
+					"Leon Barillaro",
+					"Gabe Hicks",
+					"Sadie Lowry"
+				],
+				"convertedBy": [
+					"f"
+				],
+				"version": "g",
+				"targetSchema": "h"
+			}
+		],
+		"dateAdded": 123,
+		"dateLastModified": 456
+}}

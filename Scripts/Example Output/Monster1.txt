@@ -1,0 +1,22 @@
+BlibBlob
+Tiny Aberration, Lawful Evil
+Armor Class: 111111 (Natural Armor)
+Hit Points: 6666 (2d8 + 2)
+Speed: 0 ft., Fly 30 ft. (hover)
+STR DEX CON INT WIS CHA
+8 (-1) 14 (+2) 13 (+1) 8 (-1) 14 (+2) 4 (-3)
+Skills: Perception +5
+Senses: Darkvision 60 ft., Passive Perception 15
+Languages: --
+Challenge: 1
+Rarity. Very Rare
+Diet. B345345345lood, sfdsdfsdf
+Environment. Ruins, Space, Underwater
+Taming Difficulty. Easy (only bonds with Evilaligned creatures)
+Starting Bond Points. 1
+Suggested Personality. Cruel, Quiet
+Innate Spellcasting (Psionics). The BlibBlob innatedfgdfgdfgdg (dgdfgdfgd). Itcan dgdfgdfgdfgdfgg nocomponents:
+At will: Chill Touch, Toll the Dead
+Actions
+Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., onetarget. Hit: 3 (1d8 - 1) piercing damage.
+
